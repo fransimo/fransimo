@@ -140,12 +140,15 @@ Main artistic activity since 2006 to 2014 was create, organize, curate and promo
 
 
 # Books
-
+## CODE
 ![](https://i1.wp.com/fransimo.info/wp-content/uploads/2021/04/X1V16641_v2.jpg?resize=420%2C280&ssl=1)
 
 [CODE](https://fransimo.info/blog/2019/05/29/code-by-r-mutt/) is a readymade artwork derived from [dcraw.c, Dave Coffin’s raw photo decoder](https://www.dechifro.org/dcraw/).  
 Available on [Lulu](https://www.lulu.com/en/shop/fran-sim%C3%B3/code-by-rmutt/paperback/product-1wk5j69d.html?page=1&pageSize=4) and [Issue](https://issuu.com/fransimo/docs/code_by_mutt).
 
+
+
+## S’Arenal Summertime 2016
 ![](https://i0.wp.com/fransimo.info/wp-content/uploads/2017/04/SArenal-Summertime-COVER-383x500.jpg?resize=229%2C300)
 
 [S’Arenal Summertime 2016](http://fransimo.info/en/blog/2017/04/02/sarenal-summertime-2016/)  
@@ -155,6 +158,7 @@ S’Arenal Summertime 2016 is a photo essay about the life on the beach in S’A
 
 The tourism industry creates a myth but not just for the consumer. Almost all my life I have made a living directly or indirectly through tourism. I think that tourism is essentially a good thing. But many inhabitants of destinations do not manage to integrate and rather than enjoy the exchange suffer from the invasion. This difference is a consequence of the lack of sensitivity on the part of the industry’s agents and all of us who are involved should take it into account to guarantee sustainability.
 
+## Shared Folder Dummy
 ![Sahred folder box](https://i2.wp.com/fransimo.info/wp-content/uploads/2016/05/DSCF3138-500x333.jpg?resize=500%2C333)
 
 [Shared Folder Dummy](http://fransimo.info/en/blog/2016/05/07/shared-folder-dummy/)
@@ -164,6 +168,8 @@ Found photography was about photos that were never intended to be public. Their 
 I asked myself: Where can I find these images in the context of the digital era?
 
 Shared folder shows what I’ve discovered.
+
+## 22.2
 
 ![22.2](https://i1.wp.com/fransimo.info/wp-content/uploads/2015/04/0013_018_GSC_2765_cover-500x375.jpg?resize=500%2C375)
 
@@ -175,6 +181,8 @@ It’s an edition of 100 signed fanzines of 24 pages is 19×13,4cm printed en ma
 
 Book video at [vimeo](https://vimeo.com/130670327).
 
+## Traces
+
 ![Traces book collection](https://i0.wp.com/fransimo.info/wp-content/uploads/2013/06/DSCF1438-2-500x333.jpg?resize=500%2C333)
 
 [Traces](http://fransimo.info/en/blog/2014/05/02/traces-2013-12-07-barcelona/) is a collective project that provides a chance to experience a dérive and verify its capacity to document urban space from different perspectives while using a common methodology and creating a psychogeographical map of Barcelona.
@@ -183,6 +191,7 @@ Traces is a series of photography books and an exhibition. The exhibition took p
 
 The following photographers participated in the project: Pedro Arroyo, Marcelo Aurelio, Olga Balibrea, Oscar Ciutat, Francisco Navamuel, Fran Simó and Ester Villaescusa.
 
+## Passengers 2012
 ![Passengers 2012](https://i0.wp.com/fransimo.info/wp-content/uploads/2013/06/passengers_2012_cover_en.jpg?resize=315%2C320)
 
 Passengers 2012 is the second book of Passengers series.The books contain short essays about the “state of art” and its relationship to society, history, the individual, and the creative processes used in Passengers.
@@ -193,11 +202,15 @@ It’s available in printed and various ebook formats [here](http://passengers-s
 
 [Browse PDF in full screen](http://issuu.com/fransimo/docs/en_passengers_2012-e?e=2922899/5647796)
 
+## Passengers
+
 ![Passengers](https://i0.wp.com/fransimo.info/wp-content/uploads/2013/06/passengers_product_thumbnail.jpg?resize=315%2C320)
 
 Passengers is a street photography project, in both web and book series form, about anonymous public transport passengers. It’s designed as a participative online project. All the images are captured by mobile devices and published on Instagram. The site is a “real-time view” of the participation process. The book is a visual meditation on public transport passengers and the aesthetics of street photography using mobile devices.It’s available in printed and various ebook formats [here](http://passengers-streetphotography.com/eds/).
 
 [Browse PDF in full screen](http://issuu.com/fransimo/docs/passaengers_v4_1_4_full_en_pdf?e=2922899/3360814)
+
+## Arrinconado
 
 ![Arrinconado](https://i1.wp.com/fransimo.info/wp-content/uploads/2013/06/arrinconado_product_thumbnail.jpg?resize=320%2C254)
 
@@ -206,6 +219,8 @@ Project “Arrinconado” (Cornered) starts a new era for Barcelona Photoblogger
 Based on the short story by Santiago Ambao, chosen for its quality, its relationship to the city and the authors’ close relationship with the group, “Cornered” is a photo- novel with three main actors: Ismael, Nuria and the city of Barcelona.
 
 It’s available in [printed version](http://www.lulu.com/shop/barcelona-photobloggers/arrinconado/paperback/product-15571787.html), [ebook version](http://www.lulu.com/shop/barcelona-photobloggers/arrinconado-ebook-edition/ebook/product-18560631.html) and video version in [English](https://vimeo.com/31446721) and [Spanish](https://vimeo.com/22812002).
+
+## 22
 
 ![22_cover](https://i2.wp.com/fransimo.info/wp-content/uploads/2013/06/22_cover.jpg?resize=320%2C212)
 
