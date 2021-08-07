@@ -1,4 +1,10 @@
-
+---
+layout: default
+header-heading-color: 0
+header-bg-color: #159957
+header-bg-color-secondary:
+header-bg-color:
+---
 
 [home](https://fransimo.info) [twitter](https://twitter.com/fransimo) [instgram](https://instagram.com/fransimo) [instgram_nft](https://instagram.com/fransimo_nft) [facebook](https://www.facebook.com/fransimoart)
 
