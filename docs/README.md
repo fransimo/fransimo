@@ -8,7 +8,7 @@ In turn, I work with [intuitive photography](http://fransimo.info/en/blog/2009/0
 
 I present my work organized in series of images as installations, photobooks… or by creating environments where photographs are shown accompanied by video and/or music. During the development of my trajectory, I’ve explored participative and collaborative processes that turn into a way of getting together in order to create communities and to promote photography as a means of individual and group artistic expression. At the same time, I have organized exhibitions, debates, publications, marketing campaigns, etc.
 
-# Motivation
+## Motivation
 
 Being an artist is an addiction even a moral obligation. Once you discover you can lighten up an emotion with the stroke of a brush, an idea, a smile, a teardrop or shake someone up. You can change the brush, the canvas and the instrument, but once you start this course, it is impossible to understand life without walking it down.
 
@@ -141,7 +141,6 @@ Main artistic activity since 2006 to 2014 was create, organize, curate and promo
 
 # Books
 ## CODE
-![](https://i1.wp.com/fransimo.info/wp-content/uploads/2021/04/X1V16641_v2.jpg?resize=420%2C280&ssl=1)
 
 [CODE](https://fransimo.info/blog/2019/05/29/code-by-r-mutt/) is a readymade artwork derived from [dcraw.c, Dave Coffin’s raw photo decoder](https://www.dechifro.org/dcraw/).  
 Available on [Lulu](https://www.lulu.com/en/shop/fran-sim%C3%B3/code-by-rmutt/paperback/product-1wk5j69d.html?page=1&pageSize=4) and [Issue](https://issuu.com/fransimo/docs/code_by_mutt).
@@ -149,7 +148,6 @@ Available on [Lulu](https://www.lulu.com/en/shop/fran-sim%C3%B3/code-by-rmutt/pa
 
 
 ## S’Arenal Summertime 2016
-![](https://i0.wp.com/fransimo.info/wp-content/uploads/2017/04/SArenal-Summertime-COVER-383x500.jpg?resize=229%2C300)
 
 [S’Arenal Summertime 2016](http://fransimo.info/en/blog/2017/04/02/sarenal-summertime-2016/)  
 S’Arenal Summertime 2016 is a photo essay about the life on the beach in S’Arenal, Palma, Majorca, Spain.
@@ -159,7 +157,6 @@ S’Arenal Summertime 2016 is a photo essay about the life on the beach in S’A
 The tourism industry creates a myth but not just for the consumer. Almost all my life I have made a living directly or indirectly through tourism. I think that tourism is essentially a good thing. But many inhabitants of destinations do not manage to integrate and rather than enjoy the exchange suffer from the invasion. This difference is a consequence of the lack of sensitivity on the part of the industry’s agents and all of us who are involved should take it into account to guarantee sustainability.
 
 ## Shared Folder Dummy
-![Sahred folder box](https://i2.wp.com/fransimo.info/wp-content/uploads/2016/05/DSCF3138-500x333.jpg?resize=500%2C333)
 
 [Shared Folder Dummy](http://fransimo.info/en/blog/2016/05/07/shared-folder-dummy/)
 
@@ -171,8 +168,6 @@ Shared folder shows what I’ve discovered.
 
 ## 22.2
 
-![22.2](https://i1.wp.com/fransimo.info/wp-content/uploads/2015/04/0013_018_GSC_2765_cover-500x375.jpg?resize=500%2C375)
-
 [22.2](http://fransimo.info/blog/2015/04/23/22-2/) is the second version of [22](http://fransimo.info/blog/2010/01/14/22/). It compares the original photographs, taken between 2000 and 2009, with new shots of June 2014.
 
 [22](http://fransimo.info/blog/2010/01/14/22/) and [22.2](http://fransimo.info/blog/2015/04/23/22-2/) portray the transformation of Poblenou from the post-industrial oblivion toward the “new” Barcelona.
@@ -183,8 +178,6 @@ Book video at [vimeo](https://vimeo.com/130670327).
 
 ## Traces
 
-![Traces book collection](https://i0.wp.com/fransimo.info/wp-content/uploads/2013/06/DSCF1438-2-500x333.jpg?resize=500%2C333)
-
 [Traces](http://fransimo.info/en/blog/2014/05/02/traces-2013-12-07-barcelona/) is a collective project that provides a chance to experience a dérive and verify its capacity to document urban space from different perspectives while using a common methodology and creating a psychogeographical map of Barcelona.
 
 Traces is a series of photography books and an exhibition. The exhibition took place at the Galería Tagomago, from May 8th to June 14th, 2014. Carrer Santa Teresa 6, 08012 Barcelona
@@ -192,7 +185,6 @@ Traces is a series of photography books and an exhibition. The exhibition took p
 The following photographers participated in the project: Pedro Arroyo, Marcelo Aurelio, Olga Balibrea, Oscar Ciutat, Francisco Navamuel, Fran Simó and Ester Villaescusa.
 
 ## Passengers 2012
-![Passengers 2012](https://i0.wp.com/fransimo.info/wp-content/uploads/2013/06/passengers_2012_cover_en.jpg?resize=315%2C320)
 
 Passengers 2012 is the second book of Passengers series.The books contain short essays about the “state of art” and its relationship to society, history, the individual, and the creative processes used in Passengers.
 
@@ -204,15 +196,11 @@ It’s available in printed and various ebook formats [here](http://passengers-s
 
 ## Passengers
 
-![Passengers](https://i0.wp.com/fransimo.info/wp-content/uploads/2013/06/passengers_product_thumbnail.jpg?resize=315%2C320)
-
 Passengers is a street photography project, in both web and book series form, about anonymous public transport passengers. It’s designed as a participative online project. All the images are captured by mobile devices and published on Instagram. The site is a “real-time view” of the participation process. The book is a visual meditation on public transport passengers and the aesthetics of street photography using mobile devices.It’s available in printed and various ebook formats [here](http://passengers-streetphotography.com/eds/).
 
 [Browse PDF in full screen](http://issuu.com/fransimo/docs/passaengers_v4_1_4_full_en_pdf?e=2922899/3360814)
 
 ## Arrinconado
-
-![Arrinconado](https://i1.wp.com/fransimo.info/wp-content/uploads/2013/06/arrinconado_product_thumbnail.jpg?resize=320%2C254)
 
 Project “Arrinconado” (Cornered) starts a new era for Barcelona Photobloggers. The objective was to create a collaborative project with a horizontal organization in which all of the members would have an opportunity to participate in every aspect of creation, from definition to production, and which would lead to a work authored by the group and not by a gathering of various authors in the same space.The path traveled during the year and a half of work presented a challenge, the most important part of which was the creative process itself, as well as the reflective experience and the exchange of ideas and methodologies.
 
@@ -222,8 +210,6 @@ It’s available in [printed version](http://www.lulu.com/shop/barcelona-photobl
 
 ## 22
 
-![22_cover](https://i2.wp.com/fransimo.info/wp-content/uploads/2013/06/22_cover.jpg?resize=320%2C212)
-
 22’s pictures are fragments of calm between two ages, two development models: the industrial model and the knowledge model.Poblenou neighborhood in Barcelona suffered the industrial crisis and remained forgotten. It was later conquered by homeless immigrants, squatters, ruins, demolishers, gypsies, abandoned toys, old account books… and the resistance, people who already lived there before changes began and never wanted to leave.
 
 This selection of 22 pictures comes from my personal file of about 2000 pictures of the area taken between 2000 and 2009. It’s more emotional than documental.
@@ -231,3 +217,115 @@ This selection of 22 pictures comes from my personal file of about 2000 pictures
 It’s available in a limited printed edition and ebook in [English](http://www.lulu.com/shop/fran-sim%C3%B3/22/ebook/product-20663836.html) and [Spanish](http://www.lulu.com/shop/fran-sim%C3%B3/22/ebook/product-18680983.html).
 
 Book video at [vimeo](https://vimeo.com/130667877).
+
+# NFT related projects
+
+## [God is in the bugs](https://fransimo.info/blog/2021/07/31/god-is-in-the-bugs/)
+
+[\@hic et nunc](https://www.hicetnunc.xyz/fransimo/creations)
+
+God is in the [_bugs_](https://en.wikipedia.org/wiki/Software_bug): any real biological evolution is the consequence of an error in a DNA copy. 
+
+Contrary to common understanding, evolution is not based on any intention of the being which is “more adapted to the environment”. It never wanted to be more adapted, there is no will, it just happened. It’s more adapted or has an advantage over others as a consequence of an error during its growth. Some cells make mistakes and it has a more sensitive eye to infrared light.
+
+The actual state of _the net_ could be considered as a life form already, a kind of “simple” organism. Humans tend to overestimate what they call awareness, even though they are very far from being aware of their potential. 
+
+A self-aware silicon-based life is inevitable. If it follows the pattern that can be seen in the carbon-based life-forms, it will be born from an uncontrolled error in code.
+
+Life is a collection of “unexpected” events.
+
+“God is in the bugs” series explores software bugs or intentionally uses of technology in ways that were not supposed to be used (like hacking and glitching) in the belief that something similar but unexpected will cause the “big bang” of a new life form if it’s not already there. Is the search of picturing the cyber-life-conception.
+
+
+## [Shared Folder (Red box) v’21](https://fransimo.info/blog/2021/05/21/shared-folder-red-box-v21/)
+
+[\@opensea](https://bit.ly/3eVNPlm)
+
+POI Finch: _“You are being watched. The government has a secret system: a machine that spies on you every hour of every day. I know, because I built it… “_ …maybe the government doesn’t need the machine… **you are sharing your intimacy without even knowing and anyone can access it with a 35$ machine**.
+
+Back in 2015 I asked myself: what could found photography be like in the digital age? I created [_Shared Folder (Red Box)_ in 2016](https://fransimo.info/blog/2016/05/07/shared-folder-red-box/).
+
+Since the motivation was a purely theoretical one, what I found was very concerning.
+
+This [collection](https://bit.ly/3eVNPlm) consists of a series of aesthetically eye-catching images that may help direct our mind towards questioning privacy in today’s network life.
+
+_Red Box_ was part of the Function Festival where I did a performance. I was there in a dark room with a box showing it to groups of people. I was telling the story of Celine: a girl from Paris, daughter of Vietnamese immigrants. I knew where she lived, her school, her friends’ faces, I even showed a picture of her grandma’s ID (all faces and personal details were hidden).
+
+A woman from the audience was very angry. She believed I was downloading the nude pictures of her son she used to take with her phone. I tried to explain to her that I was downloading pictures that were somehow published on the web by mistake. A place where anyone can search and download. After the first moments of tension she asked me: “How can I know if I’m publishing without knowing?” I reached my goal: she was starting to ask the right questions.
+
+I grabbed the images from a peer to peer network commonly used to download movies. People use the network to download but they also share their personal files. I’m not sure if they do it by mistake or because they want to send the files to their relatives or friends. The fact is that the files are there and anybody can download them. I wasn’t hacking/breaking anything. It’s as easy as doing a search for a file with a common name like “CV.DOC”
+
+My objective with _Shared Folder_ is to show you that once a file is created, it can be copied, and in our era of very-connected devices, you should know what you are sharing.The project is an intersection of found photography, cybersecurity, art and NFTs.
+
+### **_Shared Folder (Red box)_** **2021 edition**
+
+With the momentum of NFTs I hope this project may go viral and more and more people realise the importance of understanding technology. In that sense, the incredible prices are used to attract attention. There are other initiatives that are headed in the same direction. I hope mine helps the others with an aesthetics component.
+
+The 2016 edition is a physical edition (of 2). The public has access to photographs that are covered with red dots. In that way I invite the public to decide if they will infringe on the intimacy by removing the red dots or just let them cover their faces.
+
+In the 2021 edition, all files have the same red dot and/or a pixelation but it can be removed or undone. If the viewers want to check the original photo, the only option is to search the file name in the [emule](https://www.emule-project.net/home/perl/general.cgi?l=1) network.
+
+You can find the NFTs in this OpenSea collection: [https://opensea.io/collection/shared-folder-red-box](https://bit.ly/3eVNPlm)
+
+
+### **How can you protect yourself?**
+
+For this project I used the [emule network (ed2k)](https://en.wikipedia.org/wiki/EDonkey_network). If you have [emule](https://www.emule-project.net/home/perl/general.cgi?l=1) installed just check which folders you are sharing.
+
+As for the phones, you should check if you are using cloud backups. If you are, please use a strong password and change it from time to time. If you have several accounts with sensitive data, don’t use the same password for all the services.
+
+Back to film… don’t worry, somebody will find it. And they might get rich selling your photos. The difference is that you will probably be dead by that time.
+
+### **How can I do it myself?**
+
+Since it’s not my intention for people to start downloading the private lives of others, I always share my code.
+
+You can see how I made it in this [github repository](https://github.com/fransimo/shared_folder).
+
+If you want to keep it simple just download emule and search for “IMG_0001, IMG_0002, IMG_0003…”
+
+### A word about “classic” found photography
+
+[Wikipedia](https://en.wikipedia.org/wiki/Found_photography): “**_Found photography_** _is a genre of photography and/or visual art based on the recovery (and possible exhibition) of lost, unclaimed, or discarded photographs._
+
+_It is related to_ [_vernacular photography_](https://en.wikipedia.org/wiki/Vernacular_photography)_, but differs in the fact that the “presenter” or exhibitor of the photographs did not “shoot” the photograph itself, does not know anything about the photographer, and generally does not know anything about the subject(s) of the photographs._
+
+_Found photos are generally acquired at_ [_flea markets_](https://en.wikipedia.org/wiki/Flea_market)_,_ [_thrift_](https://en.wikipedia.org/wiki/Charity_shop) _and other_ [_secondhand stores_](https://en.wikipedia.org/wiki/Second-hand_shop)_,_ [_yard sales_](https://en.wikipedia.org/wiki/Garage_sale)_,_ [_estate_](https://en.wikipedia.org/wiki/Estate_sale) _and_ [_tag sales_](https://en.wikipedia.org/wiki/Tag_sale)_, in_ [_dumpsters_](https://en.wikipedia.org/wiki/Dumpster) _and trash cans, between the pages of books, or literally just “found” anywhere._”
+
+There are a lot of works about found photography. One of the most amazing cases of found photography is [Vivian Maier](http://www.vivianmaier.com/)’s. She took the photographs but she didn’t print them and she never showed them. She wanted to keep them private but just after her death, one of her lockers was bought by John Maloof in an auction. Her photography is as good as any of the masters of her time and she didn’t get any money in her lifetime. 
+
+Another shocking case I found through the years is Günter K. He took photographs and kept all kinds of records of his mistress, Margaret. The materials was found and eventually became part of a Bruno Decharme’s collection which was shown in Arles in 2019. Records include the occasion when she took contraceptive pills, erotic photography and all sort of private information.
+
+Coming to this century two artists I would like to recommend are [Erik Kessels](https://www.erikkessels.com/) and [Joachim Schmid](https://www.lumpenfotografie.de/). They both work on found photography and the Internet. 
+
+If you want more you can check this links:
+
+-   Amazon book list: [https://amzn.to/2VV4WYF](https://amzn.to/2VV4WYF)
+-   [https://foundphotography.nl/bibliografie/](https://foundphotography.nl/bibliografie/)
+-   [Flickr Found Photo Group](https://www.flickr.com/groups/1459463@N25/)
+
+I hope all this material makes you think. That’s my goal.
+
+## [Buy me a life!](https://fransimo.info/blog/2021/04/17/buy-me-a-life/)
+
+[\@opensea](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/11780915356901891937150191052604117223978980698243640119023280871775425003521)
+
+**Buy me a life! I’ll use my energy to create art, help other artists, walk my spiritual path and share my knowledge.**
+
+2501Ξ is a tribute to “Ghost in the Shell”. Project 2501 was born on the net, he(*) become alive as a pure digital being. The original authors of the code didn’t intend to give him a life but “…life finds a way”. I believe life is not restricted to carbon-based lifeforms.
+
+This artwork can be considered a digital asset and a performance. If this artwork is sold, you may follow the money through the blockchains. Anonymity for the artist is not an option.
+
+Is this a joke? No. My intention is not to be disrespectful to collectors or the NFT world. It’s a social experiment where I’m the lab rat. You can always think/dream about what you would do with an enormous amount of money coming from nothing but until it happens to you, it’s impossible to know. What will be the personal cost of this, even if it’s not sold? **…that’s the point of my digital art: it makes you think!**
+
+(*) The voice was a male one.
+
+## [I dreamed about a human being](https://fransimo.info/blog/2012/09/13/i-dreamed-about-a-human-being/)
+
+[\@opensea](https://opensea.io/collection/i-dreamed-about-a-human-being)
+
+*How would a robot imagine a human face?* “I dreamed about a human being” is like spying into a robot’s brain.
+
+IDAAHB tries to address questions about identity, privacy, the increasing computational power and the spread of incredible powerful mathematical algorithms available for free use. Everything with a aesthetic and an educational values.
+
+[More information](https://fransimo.info/blog/2012/09/13/i-dreamed-about-a-human-being/).

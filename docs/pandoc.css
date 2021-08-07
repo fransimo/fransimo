@@ -134,6 +134,10 @@ pre {
   word-wrap: break-word;
 }
 
+pre.sourceCode, code.sourceCode {
+    background-color: #ececec;
+}
+
 b, strong {
   font-weight: bold;
 }
