@@ -1,10 +1,8 @@
-# Fran Simó
 
-_"Art is plastic thought. A swing between ideas and aesthetics."_
 
-[home](https://fransimo.info) [twitter](https://twitter.com/fransimo) [instgram](https://instagram.com/fransimo_nft) [facebook](https://www.facebook.com/fransimoart)
+[home](https://fransimo.info) [twitter](https://twitter.com/fransimo) [instgram](https://instagram.com/fransimo) [instgram_nft](https://instagram.com/fransimo_nft) [facebook](https://www.facebook.com/fransimoart)
 
-## Statement
+# Statement
 
 As an artist in the [new media art](https://en.wikipedia.org/wiki/New_media_art) environment I explore the relationship between man and technology. I’m interested in artificial intelligence (especially in relationship with our sense of consciousness and life), the possibilities of open-source/open-hardware, open data banks and the information that users shares by mistake.
 
@@ -12,7 +10,7 @@ In turn, I work with [intuitive photography](http://fransimo.info/en/blog/2009/0
 
 I present my work organized in series of images as installations, photobooks… or by creating environments where photographs are shown accompanied by video and/or music. During the development of my trajectory, I’ve explored participative and collaborative processes that turn into a way of getting together in order to create communities and to promote photography as a means of individual and group artistic expression. At the same time, I have organized exhibitions, debates, publications, marketing campaigns, etc.
 
-## Motivation
+# Motivation
 
 Being an artist is an addiction even a moral obligation. Once you discover you can lighten up an emotion with the stroke of a brush, an idea, a smile, a teardrop or shake someone up. You can change the brush, the canvas and the instrument, but once you start this course, it is impossible to understand life without walking it down.
 
@@ -22,9 +20,9 @@ The signature and date are an accident that might only help us understand how th
 
 Even thought the journey is not the destination, we know ‘at the end of the course there is always a mirror’. Once we start walking we need to keep on because in the end we will only find ourselves
 
-## CV
+# CV
 
-### Exhibitions
+## Exhibitions
 
 -   Group: [function(“innocence”, 2019)](http://2019.functionfest.com/en/function_home_eng/) digital and electronic art festival in Mallorca, Centre Cultural Casa Planas, Palma, Spain, 2017.
 -   Group: [Ciutat de Vacances](http://www.esbaluard.org/en/exposicion/ciutat-de-vacances-es-baluard-museu-dart-modern-i-contemporani-de-palma-2/), Museu Es Baluard, Palma, Spain, 2017.
@@ -46,7 +44,7 @@ Even thought the journey is not the destination, we know ‘at the end of the co
 -   Group: Slideluck Potshow III, Sala MauMau, Barcelona, 2009
 -   **Solo**: “inside Out” , Davinci Escola D’Art, Barcelona, 2007.
 
-### Books
+## Books
 
 My self-published books are listed [here](http://fransimo.info/books/).
 
@@ -58,14 +56,14 @@ Some of my works were included in these books.
 -   _Barcelona_, La Fábrica, [ISBN 978-8415691679](http://amzn.to/1IcRaSl).
 -   _Central Park NYC: An Architectural View_, Universe Books, [ISBN 978-0847840793](http://amzn.to/1faEjJz).
 
-### Prizes
+## Prizes
 
 -   2017 Finalist with Heaven at DOCfield Dummy Award Fundació Banc Sabadell
 -   2017 [Lumen Prize](https://lumenprize.com/) [Long list](https://www.evernote.com/shard/s11/client/snv?noteGuid=be7408bc-a2c4-4415-ad48-711e5300f240&noteKey=fe7aed069548d5545769e4ef6ecdbd2f&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs11%2Fsh%2Fbe7408bc-a2c4-4415-ad48-711e5300f240%2Ffe7aed069548d5545769e4ef6ecdbd2f&title=Longlist%2B2017%2B%257C%2BThe%2BLumen%2BPrize)
 -   2015 Finalist with [Traces](http://fransimo.info/blog/2014/05/02/traces-2013-12-07-barcelona/) at [DOCfield Dummy Award Fundació Banc Sabadell](https://docfieldbarcelona.org/en/entrega-del-docfield-dummy-award-fundacio-banc-sabadell/)
 -   2015 [Lumen Prize](https://lumenprize.com/) Long list
 
-### Project direction for Barcelona Photobloggers
+## Project direction for Barcelona Photobloggers
 
 Main artistic activity since 2006 to 2014 was create, organize, curate and promote participative and collaborative projects for [Barcelona Photobloggers](http://barcelonaphotobloggers.org/), an on-line social network of amateur and professional photographers of Barcelona Area.
 
@@ -88,13 +86,13 @@ Main artistic activity since 2006 to 2014 was create, organize, curate and promo
 -   Exhibit: [voltants.com](http://www.voltants.com/) at Sonimagfoto 2007 (biggest Spanish photography industry fair)
 -   **Exhibit: First Spanish Photobloggers collective exhibition, [“De la red a la pared”](http://fransimo.info/blog/2006/10/16/exposicion-de-la-red-a-la-pared/) , 22 photoblogs, 320 pictures. Fotonauta Gallery, 2006.**
 
-### Independent curator
+## Independent curator
 
 -   Jury: [Premio Revela 2014](http://premiorevela.com/category/jurado-2014/)
 -   Portfolio Reviewer: [VISIONAT DE PORTFOLIS, PICS 2013](http://patillimona.net/pics2013/)
 -   Exhibit: [In Motion](http://www.marceloaurelio.com/en-movimiento/) by [Marcelo Aurelio](http://www.marceloaurelio.com/), Centre Civic Pati Llimona and Centre Civic Can Baste, Barcelona, 2012.
 
-### Collaborations
+## Collaborations
 
 -   -   As co-founder of [Caja Azul](http://caja-azul.org/) I’ve collaborated with all its debates.
         -   2014 – Caja Azul 14va. edición: La influencia de National Geographic en la fotografía a color. Tino Soriano, José Manuel Navia y Rafa Badia. La Fábrica. Madrid.
@@ -119,7 +117,7 @@ Main artistic activity since 2006 to 2014 was create, organize, curate and promo
 -   “Branguilí va ser aquí, I tu?” and “[Barcelona 2000-2011](http://www.cccb.org/en/projecte_online-barcelona_2000_2011-39508)” software, social networking, promotion for open participation. Exhibition: **CCCB**, Barcelona.
 -   Support to **Photographic Social Vision** in [“DOMESTIC, a network space”](http://www.photographicsocialvision.org/domestic/): software, social networking, promotion for open participation. Exhibition: Centre Cultural Caja Madrid, Barcelona, 198 photographers, 1049 pictures, May and June 2010.
 
-### Workshops, lectures, debates
+## Workshops, lectures, debates
 
 -   [TECNOLOGIA I SUPORTS](https://jornadesfotografiadocumental.wordpress.com/) for Jornadas de Fotografía Documental 2013
 -   [Online marketing for photographers](http://fransimo.info/blog/2009/12/22/charla-marketing-on-line-para-fotografos/) for Barcelona Photobloggers, Barcelona, 2009.
@@ -128,7 +126,7 @@ Main artistic activity since 2006 to 2014 was create, organize, curate and promo
 -   Photography principles for CampusMac 2008, Barcelona, 2008.
 -   Photography principles for CampusMac 2007, Barcelona, 2007.
 
-### Courses attendance (as student)
+## Courses attendance (as student)
 
 -   [Les Clíniques d’Es Baluard](http://www.esbaluard.org/es/activitats/622/les-cliniques-des-baluard-201516/) by Javier Duero, Ignacio Cabrero, Rosa Pera, Joan Morey (Es Baluard Museu d’Art Modern i Contemporani de Palma) 2015-2016
 -   Workshop “Explorar la creatividad” by [Javier Vallhonrat](http://es.wikipedia.org/wiki/Javier_Vallhonrat) (La Magistral) 2013
@@ -143,7 +141,7 @@ Main artistic activity since 2006 to 2014 was create, organize, curate and promo
 
 
 
-## books
+# Books
 
 ![](https://i1.wp.com/fransimo.info/wp-content/uploads/2021/04/X1V16641_v2.jpg?resize=420%2C280&ssl=1)
 
