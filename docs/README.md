@@ -1,5 +1,3 @@
-# Introduction
-
 I'm passionate about IT, fine arts, photography, cryptocurrencies, NFTs and travel.
 
 I started programming at 11 years (1986). At 17, I was selling software as a freelance.
