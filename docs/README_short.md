@@ -1,0 +1,1 @@
+Links: [artist web](https://fransimo.info), [twitter](https://twitter.com/fransimo), [instgram](https://instagram.com/fransimo), [instgram_nft](https://instagram.com/fransimo_nft), [facebook](https://www.facebook.com/fransimoart), [linkedin](https://www.linkedin.com/in/fransimo/)
